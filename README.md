@@ -3,6 +3,7 @@ Hello, world! 👋
 
 I'm Camilla, a developer from :brazil: São Paulo.
 
+- 🔭 I’m currently working on [Milhas API](https://github.com/ecureuill/milhas) 
 - 🌱 I’m currently learning QA at [Qa.Coders](https://www.linkedin.com/company/qa-coders-academy/), Scrum at [DIO](https://www.dio.me/) and Java Spring Boot at [Alura](https://www.alura.com.br/)
 - 🎯 I’m looking to collaborate as developer / QA volunteer to NGO
 - 🐳 I use docker containers as my development enviroment (check it [here](https://github.com/ecureuill/docker-development-enviroment))
@@ -38,11 +39,11 @@ I'm Camilla, a developer from :brazil: São Paulo.
 
 ### Front-end Projects resulted from Challanges or Courses 
 
-- [meteora](https://ecureuill.github.io/meteora)
 - [codechella](https://ecureuill.github.io/codechella)
 - [adopet](https://ecureuill.github.io/adopet-app)
 - [matching game](https://ecureuill.github.io/matching-game)
 - [dio-bank](https://ecureuill.github.io/dio-bank)
+- [meteora](https://ecureuill.github.io/meteora) 🚧
 - [jogo da velha](https://ecureuill.github.io/jogo-da-velha) 🚧
 
 
