@@ -3,7 +3,7 @@ Hello, world! 👋
 
 I'm Camilla, a developer from :brazil: São Paulo.
 
-- 🔭 I’m currently working on [Milhas API](https://github.com/ecureuill/milhas) 
+- 🔭 I’m currently working on [Milhas API](https://github.com/ecureuill/milhasapi) 
 - 🌱 I’m currently learning QA at [Qa.Coders](https://www.linkedin.com/company/qa-coders-academy/), Scrum at [DIO](https://www.dio.me/) and Java Spring Boot at [Alura](https://www.alura.com.br/)
 - 🎯 I’m looking to collaborate as developer / QA volunteer to NGO
 - 🐳 I use docker containers as my development enviroment (check it [here](https://github.com/ecureuill/docker-development-enviroment))
@@ -50,7 +50,7 @@ I'm Camilla, a developer from :brazil: São Paulo.
 
 ### Back-end Projects resulted from Challanges or Courses 
 - [adopet API](https://github.com/ecureuill/adopet)
-- [milhas API](https://github.com/ecureuill/milhas) (currently in development 🚧)
+- [milhas API](https://github.com/ecureuill/milhasapi) (currently in development 🚧)
 
 <!--
 **ecureuill/ecureuill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
