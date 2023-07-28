@@ -1,12 +1,11 @@
 Hello, world! 👋
 ----------------
 
-I'm Camilla, fullstack developer from :brazil: São Paulo.
+I'm Camilla, a developer from :brazil: São Paulo.
 
 - 🌱 I’m currently learning QA at [Qa.Coders](https://www.linkedin.com/company/qa-coders-academy/), Scrum at [DIO](https://www.dio.me/) and Java Spring Boot at [Alura](https://www.alura.com.br/)
-
 - 🎯 I’m looking to collaborate as developer / QA volunteer to NGO
-
+- 🐳 I use docker containers as my development enviroment (check it [here](https://github.com/ecureuill/docker-development-enviroment))
 - 📫 You can reach me by [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:logika.sciuro@gmail.com)](mailto:logika.sciuro@gmail.com) or connect on [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camillasilva) 
 
 ### Languages and tools
@@ -39,17 +38,18 @@ I'm Camilla, fullstack developer from :brazil: São Paulo.
 
 ### Front-end Projects resulted from Challanges or Courses 
 
-- [meteora](https://ecureuill.github.io/meteora) 🚧
-- [jogo da velha](https://ecureuill.github.io/jogo-da-velha) 🚧
+- [meteora](https://ecureuill.github.io/meteora)
 - [codechella](https://ecureuill.github.io/codechella)
 - [adopet](https://ecureuill.github.io/adopet-app)
 - [matching game](https://ecureuill.github.io/matching-game)
 - [dio-bank](https://ecureuill.github.io/dio-bank)
+- [jogo da velha](https://ecureuill.github.io/jogo-da-velha) 🚧
 
 
 
 ### Back-end Projects resulted from Challanges or Courses 
 - [adopet API](https://github.com/ecureuill/adopet)
+- [milhas API](https://github.com/ecureuill/milhas) (currently in development 🚧)
 
 <!--
 **ecureuill/ecureuill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
