@@ -16,9 +16,9 @@ I'm Camilla, a developer from :brazil: São Paulo.
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+<!-- ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
-
+-->
 #### Front-end
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![HTML5](https://img.shields.io/badge/HTML5-000?&logo=html5)
@@ -29,6 +29,7 @@ I'm Camilla, a developer from :brazil: São Paulo.
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Postgresql](https://img.shields.io/badge/Postgresql-000?&logo=Postgresql)
 
+<!--
 #### Test
 ![TDD](https://img.shields.io/badge/TDD-000?&logo=tdd)
 ![BDD](https://img.shields.io/badge/BDD-000?&logo=bdd)
@@ -38,7 +39,7 @@ I'm Camilla, a developer from :brazil: São Paulo.
 ![JUnit](https://img.shields.io/badge/JUnit-000?&logo=JUnit)
 ![Jest](https://img.shields.io/badge/Jest-000?&logo=Jest)
 ![Postman](https://img.shields.io/badge/Postman-000?&logo=postman)
-
+-->
 #### Others
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
