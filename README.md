@@ -2,7 +2,7 @@ Hello, world! 👋
 ----------------
 
 I'm Camilla, a developer from :brazil: São Paulo.
-
+- 🥳 I was granted with two scholarships by Avanade and Santander to deepen my knowledge in Java and architecture (Ada's Java Academy Bootcamp) and Data Science (DIO's Data Science with Python Bootcamp) 
 <!-- - 🔭 I’m currently working on [Meteorda](https://github.com/ecureuill/meteora) --> 
 - 🌱 I’m currently learning QA at [Qa.Coders](https://www.linkedin.com/company/qa-coders-academy/), Scrum Master at [DIO](https://dio.me/curso-certificacao-scrum-master/AFU3508FU5RN) and Java Spring Boot at [Alura](https://www.alura.com.br/)
 - 🎯 I’m looking to collaborate as developer / QA volunteer to NGO
