@@ -59,9 +59,10 @@ I'm Camilla, a developer from :brazil: São Paulo.
 - Jogo da Velha [live demo](https://ecureuill.github.io/jogo-da-velha) | [repo](https://github.com/ecureuill/jogo-da-velha)
 
 
-### Back-end Projects resulted from Challanges or Courses 
-- [adopet API](https://github.com/ecureuill/adopet)
-- [milhas API](https://github.com/ecureuill/milhasapi)
+### Back-end Projects resulted from Challanges or Courses
+- ⚔️[RPG Battle API](https://github.com/ecureuill/adopet)
+- 🐶[Adopet API](https://github.com/ecureuill/adopet)
+- ✈️[Milhas API](https://github.com/ecureuill/milhasapi)
 
 <!--
 **ecureuill/ecureuill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
