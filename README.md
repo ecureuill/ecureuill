@@ -51,12 +51,12 @@ I'm Camilla, a developer from :brazil: São Paulo.
 
 ### Front-end Projects resulted from Challanges or Courses 
 
-- Codechella [live demo](https://ecureuill.github.io/codechella) | [repo](https://github.com/ecureuill/codechella)
-- Adopet [live demo](https://ecureuill.github.io/adopet-app) | [repo](https://github.com/ecureuill/adopet-app)
-- Matching Game [live demo](https://ecureuill.github.io/matching-game) | [repo](https://github.com/ecureuill/matching-game)
-- Dio Bank [live demo](https://ecureuill.github.io/dio-bank) | [repo](https://github.com/ecureuill/dio-bank)
-- Meteora [live demo](https://ecureuill.github.io/meteora) | [repo](https://github.com/ecureuill/meteora)
-- Jogo da Velha [live demo](https://ecureuill.github.io/jogo-da-velha) | [repo](https://github.com/ecureuill/jogo-da-velha)
+- 👩‍💻 Codechella [live demo](https://ecureuill.github.io/codechella) | [repo](https://github.com/ecureuill/codechella)
+- 🐶 Adopet [live demo](https://ecureuill.github.io/adopet-app) | [repo](https://github.com/ecureuill/adopet-app)
+- 🎲 Matching Game [live demo](https://ecureuill.github.io/matching-game) | [repo](https://github.com/ecureuill/matching-game)
+- 🏦 Dio Bank [live demo](https://ecureuill.github.io/dio-bank) | [repo](https://github.com/ecureuill/dio-bank)
+- 🛍️ Meteora [live demo](https://ecureuill.github.io/meteora) | [repo](https://github.com/ecureuill/meteora)
+- 🎲 Jogo da Velha [live demo](https://ecureuill.github.io/jogo-da-velha) | [repo](https://github.com/ecureuill/jogo-da-velha)
 
 
 ### Back-end Projects resulted from Challanges or Courses
