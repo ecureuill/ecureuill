@@ -3,7 +3,7 @@ Hello, world! 👋
 
 I'm Camilla, a developer from :brazil: São Paulo.
 <!-- - 🔭 I’m currently working on [Meteorda](https://github.com/ecureuill/meteora) --> 
-- 🌱 I’m currently studying for my first Microsoft certification AZ-900
+- 🌱 I’m currently studying test automation with Playwright
 - 🎯 I’m looking to collaborate as developer / QA volunteer to NGO
 - 🐳 I use docker containers as my development enviroment (check it [here](https://github.com/ecureuill/docker-development-enviroment))
 - 📫 You can reach me by [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:logika.sciuro@gmail.com)](mailto:logika.sciuro@gmail.com) or connect on [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camillasilva) 
