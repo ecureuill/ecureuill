@@ -1,22 +1,37 @@
 Hello, world! 👋
 ----------------
 
-I'm Camilla, a developer from :brazil: São Paulo.
+I'm Camilla, a full-stack developer and QA from :brazil: São Paulo.
 <!-- - 🔭 I’m currently working on [Meteorda](https://github.com/ecureuill/meteora) --> 
-- 🌱 I’m currently studying test automation with Playwright
+- 🌱 I’m currently studying test automation with Robot at [QaX](https://qax.com]
 - 🎯 I’m looking to collaborate as developer / QA volunteer to NGO
 - 🐳 I use docker containers as my development enviroment (check it [here](https://github.com/ecureuill/docker-development-enviroment))
 - 📫 You can reach me by [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:logika.sciuro@gmail.com)](mailto:logika.sciuro@gmail.com) or connect on [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camillasilva) 
 
 ### Technologies
+#### QA
+![TDD](https://img.shields.io/badge/TDD-000?&logo=tdd)
+![BDD](https://img.shields.io/badge/BDD-000?&logo=bdd)
+
+![Cucumber](https://img.shields.io/badge/Cucumber-000?&logo=Cucumber)
+
+![Playwright](https://img.shields.io/badge/-Playwright-000?&logo=playwright)
+![Robot](https://img.shields.io/badge/-Robot-000?&logo=robot)
+![Postman](https://img.shields.io/badge/Postman-000?&logo=postman)
+![Capybara](https://img.shields.io/badge/Capybara-000?&logo=Capybara)
+![Mockito](https://img.shields.io/badge/Mockito-000?&logo=Mockito)
+![JUnit](https://img.shields.io/badge/JUnit-000?&logo=JUnit)
+![Jest](https://img.shields.io/badge/Jest-000?&logo=Jest)
+![Rest Assured](https://img.shields.io/badge/-RestAssured-000?&logo=restassured)
+![SuperTest](https://img.shields.io/badge/-SuperTest-000?&logo=supertest)
 
 #### Back-end
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-<!-- ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+<!-- ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
 -->
 #### Front-end
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -28,17 +43,6 @@ I'm Camilla, a developer from :brazil: São Paulo.
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Postgresql](https://img.shields.io/badge/Postgresql-000?&logo=Postgresql)
 
-<!--
-#### Test
-![TDD](https://img.shields.io/badge/TDD-000?&logo=tdd)
-![BDD](https://img.shields.io/badge/BDD-000?&logo=bdd)
-![Cucumber](https://img.shields.io/badge/Cucumber-000?&logo=Cucumber)
-![Capybara](https://img.shields.io/badge/Capybara-000?&logo=Capybara)
-![Mockito](https://img.shields.io/badge/Mockito-000?&logo=Mockito)
-![JUnit](https://img.shields.io/badge/JUnit-000?&logo=JUnit)
-![Jest](https://img.shields.io/badge/Jest-000?&logo=Jest)
-![Postman](https://img.shields.io/badge/Postman-000?&logo=postman)
--->
 #### Others
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
@@ -47,6 +51,10 @@ I'm Camilla, a developer from :brazil: São Paulo.
 ![VSCode](https://img.shields.io/badge/VSCode-000?&logo=visualstudiocode)
 ![SublimeText](https://img.shields.io/badge/SublimeText-000?&logo=sublimetext)
 
+
+### QA Projects resulted from Challanges or Courses 
+- 🧟 ZombiePlus - Playwright [repo](https://github.com/ecureuill/zombieplus-playwright) | [report](https://ecureuill.github.io/zombieplus-playwright)
+- 🛍️ SauceDemo - Playwright [repo](https://github.com/ecureuill/saucedemo-playwright) | [report](https://ecureuill.github.io/saucedemo-playwright)
 
 ### Front-end Projects resulted from Challanges or Courses 
 
