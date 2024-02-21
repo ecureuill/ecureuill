@@ -53,8 +53,9 @@ I'm Camilla, a full-stack developer and QA from :brazil: São Paulo.
 
 
 ### QA Projects resulted from Challanges or Courses 
-- 🧟 ZombiePlus - Playwright [repo](https://github.com/ecureuill/zombieplus-playwright) | [report](https://ecureuill.github.io/zombieplus-playwright)
-- 🛍️ SauceDemo - Playwright [repo](https://github.com/ecureuill/saucedemo-playwright) | [report](https://ecureuill.github.io/saucedemo-playwright)
+- 🧟 ZombiePlus - Robot🤖 [repo](https://github.com/ecureuill/zombieplus-robot) | [report](https://ecureuill.github.io/zombieplus-robot/report.html)
+- 🧟 ZombiePlus - Playwright🎭  [repo](https://github.com/ecureuill/zombieplus-playwright) | [report](https://ecureuill.github.io/zombieplus-playwright)
+- 🛍️ SauceDemo - Playwright🎭 [repo](https://github.com/ecureuill/saucedemo-playwright) | [report](https://ecureuill.github.io/saucedemo-playwright)
 
 ### Front-end Projects resulted from Challanges or Courses 
 
