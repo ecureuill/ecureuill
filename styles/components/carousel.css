@@ -1,0 +1,78 @@
+.carousel {
+  width: 90%;
+  margin: auto;
+}
+
+.--carousel-controls {
+  display: flex;
+  padding-bottom: 10px;
+  justify-content: space-between;
+}
+
+.--carousel-controls button {
+  background-color: var(--color-primary);
+
+  height: 50px;
+  width: 50px;
+}
+.--carousel-controls button::before {
+  border: 15px solid transparent;
+  border-left: 28px solid var(--color-zero);
+  box-sizing: border-box;
+  content: "";
+  display: block;
+  height: 20px;
+  width: 20px;
+  margin: auto;
+  transform: translateX(8px);
+  -webkit-transform: translateX(8px);
+}
+
+.--carousel-controll-previous::before {
+  transform: rotate(180deg) translateX(9px)!important;
+}
+
+.--carousel-content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.--carousel-caption {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+
+  flex-grow: 1;
+  
+  font-variant: small-caps;
+  font-size: 24px;
+  line-height: 37px;
+  font-weight: 600;
+}
+
+.--carousel-title {
+  width: 100%;
+}
+
+.--carousel-description {
+  text-align: justify;
+}
+
+.--carousel-image {
+  flex-grow: 1;
+}
+
+.--carousel-image img{
+  height: auto;
+  max-width: 100%;
+}
+
+.--carousel-github {
+  width: 160px;
+  margin: auto;
+}
+
+.--carousel-item:not(.active) {
+  display: none;
+}

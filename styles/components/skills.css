@@ -1,0 +1,13 @@
+.skills {
+  background-color: var(--color-primary)
+}
+
+.skills img {
+  width: 80%;
+}
+
+.skills li {
+  border: 1px dashed var(--color-black);
+  border-radius: 6px;
+  padding: 5px;
+}

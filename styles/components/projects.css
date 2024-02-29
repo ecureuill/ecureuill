@@ -1,0 +1,77 @@
+.projects {
+  background-color: var(--color-secondary);
+  color: var(--color-zero);
+}
+.--projects-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center
+}
+.--projects-card,
+.--projects-backend-wrapper {
+  width: 400px;
+  height: 350px;
+}
+.--projects-card {
+  border: 10px solid var(--color-black);
+}
+.--projects-cover {
+	height: 40%;
+  max-width: 90%;
+	margin: 12px;
+}
+
+.--projects-description {
+  padding-top:20px;
+  
+  font-size:1.25rem;
+  line-height:1.5em;
+  color: var(--color-black);
+}
+
+.--projects-details {
+  padding:10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.--projects-list {
+  height: 100%;
+  width: 100%;
+
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: left;
+  gap: 12px;  
+  
+  color: var(--color-black);
+}
+
+.--projects-list li {
+  font-size:1.25rem;
+  line-height:1.5em;
+}
+.--projects-list-ico{
+  margin: 20px;
+  height: fit-content;
+  object-fit: none;
+}
+.--projects-backend-title {
+  padding: 10px;
+  font-variant: small-caps;
+}
+
+.--projects-backend-container {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.--projects-backend-wrapper {
+  padding: 20px;
+}

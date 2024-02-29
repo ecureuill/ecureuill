@@ -1,0 +1,40 @@
+.hero {
+  background: url('../../assets/img/hero.png');
+
+  min-height: 900px;
+  max-height: 900px;
+
+  color: var(--color-black);
+
+  position: relative;
+}
+
+.hero--contacts {
+  position:absolute;
+  top: 40px;
+  right: 40px;
+}
+
+.hero--contacts-icon {
+  height: 100px;
+}
+.hero--description {
+  padding-left: 60px;
+  padding-top: 127px;
+
+  text-align: left;
+}
+
+.hero--greetings {
+  
+}
+
+.hero--about {
+  font-size: var(--size-large);
+  line-height: var(--size-large);
+}
+
+.hero--name {
+  font-weight: 600;
+  /* text-shadow: -5px 0 0 var(--color-black); */
+}

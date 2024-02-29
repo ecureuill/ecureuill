@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Camilla | Developer & QA Specialist</title>
+  <link rel="stylesheet" href="./styles/styles.css">
+  <script src="./scripts/scripts.js"></script>
+</head>
+<body>
+<!-- 
+  <header id="header" class="header">
+    <nav id="header-nav">
+      <a href="#skills">Skills</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header> -->
+
+  <main>
+    <section id="hero" class="hero">
+      <div class="hero--description">
+        <h1 class="hero--greetings">Hello, I'm <span class="hero--name">Camilla</span></h1>
+        <p class="hero--about">QA Engineer <br>and Fullstack Developer <br>based in Brazil</p>
+      </div>
+      <nav id="contacts-nav" class="hero--contacts">
+        <a href="https://linkedin.com/in/camillasilva"><img alt="access Camilla`s linkedin profile"  class="hero--contacts-icon" src="./assets/img/linkedin.png">
+        <a href="https://github.com/ecureuill"><img alt="access Camilla`s github profile"  class="hero--contacts-icon" src="./assets/img/github-logo.png">
+        </a>
+      </nav>
+    </section>
+  
+    <section id="skills" class="skills">
+      <h2>Skills</h2>
+      <img alt="" src="./assets/img/laptop.png" />
+      <article id="skills-qa-role">
+        <h3>QA Engineer</h3>
+        <ul id="skills-qa-tests" class="list-horizontal" title="tests">
+          <li>Web and Mobile e2e</li>
+          <li>API</li>
+          <li>Accessibility</li>
+        </ul>
+        <ul id="skills-qa-frameworks" class="list-horizontal" title="frameworks">
+          <li>Playwright</li>
+          <li>Robot</li>
+          <li>Appium</li>
+        </ul>
+      </article>
+      <article id="skills-backend-role">
+        <h3>Back-end Developer</h3>
+        <ul id="skills-backend-languages" class="list-horizontal" title="languages">
+          <li>Typescript</li>
+          <li>Java</li>
+          <li>Python</li>
+          <li>VB6</li>
+          <li>C#</li>
+        </ul>
+        <ul id="skills-backend-frameworks" class="list-horizontal" title="frameworks and environments">
+          <li>NodeJS</li>
+          <li>Spring boot</li>
+        </ul>
+      </article>
+      <article id="skills-frontend-role">
+        <h3>Front-end Developer</h3>
+        <ul id="skills-frontend-development" class="list-horizontal" title="development principles">
+          <li>Digital Accessibility</li>
+          <li>Mobile First Aproach</li>
+          <li>Fluid and Responsive Design</li>
+        </ul>
+        <ul id="skills-frontend-languages" class="list-horizontal" title="languages">
+          <li>HTML5</li>
+          <li>CSS</li>
+          <li>JS</li>
+        </ul>
+        <ul id="skills-frontend-frameworks" class="list-horizontal" title="frameworks">
+          <li>React Framework</li>
+        </ul>
+      </article>
+    </section>
+  
+    <section id="projects" class="projects">
+      <article id="projects-qa-role">
+        <h2>QA Projects</h2>
+        <div id="projects-qa-container" class="--projects-wrapper">
+          <button id="card-1" class="flip-card-wrapper" onclick="flip(this)" aria-label="Turn card">
+            <div class="--projects-card flip-card-inner">
+              <div class="flip-card-back">
+                <img class="--projects-cover" alt="Robot Projects" src="./assets/img/playwright.svg">
+                <p class="--projects-description">
+                  End-to-End and Snapshot tests using Playwright framework.
+                </p>
+              </div>
+              <div class="flip-card-front --projects-details" aria-hidden="true">
+                <img class="--projects-list-ico" alt="Project's Github repository"src="./assets/img/github.png"/>
+                <ul class="--projects-list">
+                  <li>
+                    <a href="https://github.com/ecureuill/zombieplus-playwright" aria-disabled="true" tabindex="-1">
+                      Zombie Plus e2e test 
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://github.com/ecureuill/saucedemo-playwright"aria-disabled="true" tabindex="-1">
+                      Sauce Demo e2e and snapshot test 
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </button>
+          <button id="card-2" class="flip-card-wrapper" onclick="flip(this)" aria-label="Turn card">
+            <div class="--projects-card flip-card-inner">
+              <div class="flip-card-back">
+                <img class="--projects-cover" alt="Robot Projects" src="./assets/img/robot.png">
+                <p class="--projects-description">
+                  End-to-End tests using robot framework with Browser Library for web systems and Appium Library for mobile apps.
+                </p>
+              </div>
+              <div class="flip-card-front --projects-details" aria-hidden="true">
+                <img class="--projects-list-ico" alt="Project's Github repository"src="./assets/img/github.png"/>
+                <ul class="--projects-list">
+                  <li>
+                    <a href="https://github.com/ecureuill/dockerized-robot-appium-environment"aria-disabled="true" tabindex="-1">
+                      Dockerized environment for robot and appium 
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </button>
+          <button id="card-3" class="flip-card-wrapper" onclick="flip(this)" aria-label="Turn card">
+            <div class="--projects-card flip-card-inner">
+              <div class="flip-card-back">
+                <img class="--projects-cover" alt="Robot Projects" src="./assets/img/capybara.svg">
+                <p class="--projects-description">
+                  Acceptance tests using Capybara, RSpec and Cucumber.
+                </p>
+              </div>
+              <div class="flip-card-front --projects-details" aria-hidden="true">
+                <img class="--projects-list-ico" alt="Project's Github repository"src="./assets/img/github.png"/>
+                <ul class="--projects-list">
+                  <li>
+                    <a href="https://github.com/ecureuill/starbugs-cucumber-rb"aria-disabled="true" tabindex="-1">
+                      Starbugs acceptance test
+                    </a>
+                  </li>
+                </ul>
+              </div>
+          </button>
+        </div>
+      </article>
+      <article id="projects-backend-role">
+        <h2>Back-end Projects</h2>
+        <div class="--projects-backend-container">
+          <div id="projects-backend-item1" class="--projects-backend-wrapper">
+            <h3 class="--projects-backend-title">RPG Battle API</h3>
+            <div class="--projects-backend-keywords">
+              <ul class="keywords list-horizontal" title="used technologies">
+                <li>java 17</li>
+                <li>spring boot</li>
+                <li>spring doc</li>
+                <li>postgresql</li>
+              </ul>
+            </div>
+            <a href="https://github.com/ecureuill/adopet"><img alt="Project's Github repository"src="./assets/img/github.png"/></a>
+          </div>
+          
+          <div id="projects-backend-item2" class="--projects-backend-wrapper">
+            <h3 class="--projects-backend-title">Adopete API</h3>
+            <div class="--projects-backend-keywords">
+              <ul class="keywords list-horizontal --projects-backend-keywords" title="used technologies">
+              <li>nodejs</li>
+              <li>express</li>
+              <li>typeorm</li>
+              <li>postgresql</li>
+              <li>jsonwebtoken</li>
+            </ul>
+          </div>
+            <a href="https://github.com/ecureuill/rpgbattle"><img alt="Project's Github repository"src="./assets/img/github.png"/></a>
+          </div>
+
+          <div id="projects-backend-item3" class="--projects-backend-wrapper">
+            <h3 class="--projects-backend-title">milhas api</h3>
+            <div class="--projects-backend-keywords">
+              <ul class="keywords list-horizontal" title="used technologies">
+                <li>java 17</li>
+                <li>spring boot</li>
+                <li>spring doc</li>
+                <li>flywaydb</li>
+                <li>mysql</li>
+                <li>open-ai</li>
+              </ul>
+            </div>
+            <a href="https://github.com/ecureuill/milhasapi"><img alt="Project's Github repository"src="./assets/img/github.png"/></a>
+          </div>
+        </div>
+      </article>
+      <article id="projects-frontend-role">
+        <h2>Front-end Projects</h2>
+        <section id='projects-frontend-carousel'class="carousel" aria-label="featured front-end projects" aria-roledescription="carousel">
+          <div class="--carousel-inner">
+            <div class="--carousel-controls">
+              <button id="projects-frontend-carousel-prev" class="--carousel-controll-previous"  aria-controls='projects-carousel' aria-label="previous project">
+              </button>
+              <button id="projects-frontend-carousel-next" class="--carousel-controll-next"  aria-controls='projects-carousel' aria-label="NEXT project">
+              </button>
+            </div>
+            <div class="--carousel-items" aria-live="off" aria-live="polite">
+              <div id="projects-frontend-carousel-item1" class="--carousel-item active" role="group" aria-roledescription="slide" aria-label="1 of 4">
+                <div class="--carousel-content">
+                  <div class="--carousel-caption">
+                    <p class="--carousel-description">
+                      Adopet App is the result of the Alura Front-end Challenge, developed based on the provided Figma design. The project showcases the skills and knowledge acquired during the challenge.
+                    </p>
+                    <ul class="keywords list-horizontal">
+                      <li>responsive layout</li><li>fluid design</li>
+                      <li>mobile-first approach</li>
+                      <li>vanilla css</li><li>react framework</li>
+                    </ul>
+                  </div>
+                  <div class="--carousel-image">
+                    <a href="https://github.com/ecureuill/adopet-app">
+                      <img src="./assets/img/adopet.png"/>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div id="projects-frontend-carousel-item2" class="--carousel-item" role="group" aria-roledescription="slide" aria-label="2 of 4">
+                <div class="--carousel-content">
+                  <div class="--carousel-caption">
+                    <p class="--carousel-description">
+                      Meteora is the result of the Alura Front-end Challenge, developed based on the provided Figma design. The project showcases the skills and knowledge acquired during the challenge.
+                    </p>
+                    <ul class="keywords list-horizontal">
+                      <li>responsive layout</li><li>fluid design</li>
+                      <li>mobile-first approach</li>
+                      <li>vanilla css</li><li>react framework</li>
+                    </ul>
+                  </div>
+                  <div class="--carousel-image">
+                    <a href="https://github.com/ecureuil/meteora">
+                      <img src="./assets/img/meteora.png"/>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div id="projects-frontend-carousel-item3" class="--carousel-item" role="group" aria-roledescription="slide" aria-label="3 of 4">
+                <div class="--carousel-content">
+                  <div class="--carousel-caption">
+                    <p class="--carousel-description">
+                      As a study project, I developed an accessible web-based matching game that adheres to the WCAG 2.1 Level A. 
+                    </p>
+                    <ul class="keywords list-horizontal">
+                      <li>accessible</li>
+                      <li>react framework</li>
+                    </ul>
+                  </div>
+                  <div class="--carousel-image">
+                    <a href="https://github.com/ecureuil/matching-game">
+                      <img src="./assets/img/matching-game.png"/>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="projects-frontend-carousel-item4" class="--carousel-item" role="group" aria-roledescription="slide" aria-label="4 of 4">
+                <div class="--carousel-content">
+                  <div class="--carousel-caption">
+                    <p class="--carousel-description">
+                      Codechela is the result of the Alura Front-end Challenge, developed based on the provided Figma design. The project showcases the skills and knowledge acquired during the challenge.
+                    </p>
+                  <ul class="keywords list-horizontal">
+                      <li>responsive layout</li><li>fluid design</li>
+                      <li>dark and light theme</li>
+                      <li>mobile-first approach</li>
+                      <li>vanilla css</li><li>react framework</li>
+                    </ul>
+                  </div>
+                  <div class="--carousel-image">
+                    <a href="https://github.com/ecureuil/codechela">
+                      <img src="./assets/img/codechela.png"/>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </article>
+    </section>
+  </main>
+</body>
+</html>

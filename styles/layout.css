@@ -1,0 +1,17 @@
+.list-horizontal {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  column-gap: 20px;
+  padding-bottom: 12px;
+}
+
+.keywords > li{
+  color: var(--color-quaternary);
+  font-size: var(--size-small);
+  line-height: var(--line-small);
+
+  border: 1px dashed var(--color-black);
+  border-radius: 6px;
+  padding: 5px;
+}

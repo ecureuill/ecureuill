@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700;800&display=swap');
+
+:root{
+  /* colors */
+  --color-black:#2C1A02;
+  --color-zero:#f1f7ed;
+  
+  --color-primary:#cb6761;
+  --color-secondary:#38649f;
+  --color-tertiary:#d09143; 
+  --color-quaternary: #FDD8D8;
+
+  /* sizes */
+  --size-base: 1rem;
+
+	--size-big: clamp(2.875rem, 6.118vw + 1.441rem, 4.5rem); /*36-70px*/
+	--size-large: clamp(1.688rem, 4.235vw + 0.695rem, 2.813rem); /*27-45px*/
+	--size-medium: clamp(1.25rem, 4.706vw + 0.147rem, 2.5rem); /*20-40px*/
+	--size-small: clamp(1rem, 3.765vw + 0.118rem, 2rem); /*16-20px*/
+	--size-tiny: (0.75rem, 0.382vw + 0.651rem, 1rem); /*12-16px*/
+
+  /* line height */
+  --line-big: clamp(4.313rem, 5.788vw + 2.956rem, 5.85rem);
+	--line-large: clamp(2.531rem, 4.235vw + 1.539rem, 3.656rem);
+	--line-medium: clamp(1.875rem, 5.176vw + 0.662rem, 3.25rem);
+	--line-small: clamp(1.5rem, 4.141vw + 0.529rem, 2.6rem);
+	--line-tiny: clamp(1.125rem, 0.268vw + 1.056rem, 1.3rem);
+  /* spaces */
+  --spacing-padding: 60px;
+  --spacing-gap: 32px;
+
+  /* fonts */
+  --font-primary: 'Raleway',  sans-serif;
+  --font-normal: 200 var(--size-base)/1rem var(--font-primary); 
+}
