@@ -53,6 +53,7 @@ I'm Camilla, a full-stack developer and QA from :brazil: São Paulo.
 
 
 ### QA Projects resulted from Challanges or Courses 
+- ⏰ Clock App - 🐳 Dockerized Robot & Appium environment [repo](https://github.com/ecureuill/dockerized-robot-appium-environment)
 - ☕ Starbugs Coffee   - 🥒 Cucumber & Capybara      [repo](https://github.com/ecureuill/starbugs-cucumber-rb) | [report](https://ecureuill.github.io/starbugs-cucumber-rb/report.html)
 - 🧟 ZombiePlus        - 🤖 Robot Framework          [repo](https://github.com/ecureuill/zombieplus-robot) | [report](https://ecureuill.github.io/zombieplus-robot/report.html)
 - 🧟 ZombiePlus        - 🎭 Playwright Framework     [repo](https://github.com/ecureuill/zombieplus-playwright) | [report](https://ecureuill.github.io/zombieplus-playwright)
