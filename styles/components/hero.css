@@ -1,7 +1,8 @@
 .hero {
-  background: url('../../assets/img/hero.png');
-
-  min-height: 900px;
+  background-image: url('../../assets/img/hero.png');
+  background-repeat: no-repeat;
+  
+  min-height: 667px;
   max-height: 900px;
 
   color: var(--color-black);
@@ -10,10 +11,30 @@
 }
 
 .hero--contacts {
-  position:absolute;
+  position: absolute;
   top: 40px;
   right: 40px;
 }
+
+@media(max-width:430px) {
+  .hero {
+    background-image: url('../../assets/img/hero-375x667.png');
+    background-size: cover;
+    background-position-y: bottom;
+  }
+
+  .hero--contacts {
+    left: 40px;
+  }
+}
+
+@media (min-width:430px) and (max-width:1024px) {
+  .hero {
+    background-image: url('../../assets/img/hero-2.png');
+    background-position-y: top;
+  }
+}
+
 
 .hero--contacts-icon {
   height: 100px;
