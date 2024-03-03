@@ -3,9 +3,18 @@
   margin: auto;
 }
 
+.--carousel-inner {
+  position: relative;
+}
+
+
 .--carousel-controls {
+  position: absolute;
+  top: 20%;
+
+  width: 100%;
+
   display: flex;
-  padding-bottom: 10px;
   justify-content: space-between;
 }
 
@@ -33,6 +42,9 @@
 }
 
 .--carousel-content {
+  padding-left: 25px;
+  padding-right: 25px;
+  
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
