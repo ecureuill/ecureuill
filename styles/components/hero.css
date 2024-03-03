@@ -1,10 +1,10 @@
 .hero {
-  background-image: url('../../assets/img/hero.png');
+  background-image: url('../../assets/img/hero-1466x900.png');
   background-repeat: no-repeat;
   
   min-height: 667px;
   max-height: 900px;
-
+  
   color: var(--color-black);
 
   position: relative;
@@ -30,7 +30,7 @@
 
 @media (min-width:430px) and (max-width:1024px) {
   .hero {
-    background-image: url('../../assets/img/hero-2.png');
+    background-image: url('../../assets/img/hero-998x900.png');
     background-position-y: top;
   }
 }
