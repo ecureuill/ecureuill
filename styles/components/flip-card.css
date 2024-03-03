@@ -6,6 +6,10 @@
   perspective: 400px;
 }
 
+.flip-card-wrapper.in-view {
+  animation: flip 1s cubic-bezier(0.42, 0, 0.54, 1.68);
+}
+
 .flip-card-inner {
   position: relative;
   width: 100%;
@@ -48,4 +52,17 @@
 .flip-card-wrapper:hover,
 .flip-card-wrapper:focus{
   outline: none;
+}
+
+
+@keyframes flip {
+  0% {
+    transform: rotateY(0deg);
+  }
+  50% {
+    transform: rotateY(45deg);
+  }
+  100% {
+    transform: rotateY(0deg);
+  }
 }

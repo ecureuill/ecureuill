@@ -17,6 +17,21 @@ document.addEventListener('DOMContentLoaded', () => {
 
     currentIndex = loopedIndex;
   }
+  
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add("in-view");
+      } else {
+        entry.target.classList.remove("in-view");
+      }
+    });
+  });
+
+  const cards = document.querySelectorAll(".flip-card-wrapper");
+  cards.forEach((card) => {
+    observer.observe(card);
+  });
 });
 
 function flip(element) {
@@ -47,3 +62,6 @@ function flip(element) {
   adjustLinks(frontFace);
   adjustLinks(backFace);
 }
+
+
+
