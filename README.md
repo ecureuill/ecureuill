@@ -11,7 +11,6 @@ I'm Camilla, a full-stack developer and QA from :brazil: São Paulo.
 ### Technologies
 #### QA
 ![Cucumber](https://img.shields.io/badge/Cucumber-000?&logo=Cucumber)
-
 ![Playwright](https://img.shields.io/badge/-Playwright-000?&logo=playwright)
 ![Robot](https://img.shields.io/badge/-Robot-000?&logo=robot)
 ![Postman](https://img.shields.io/badge/Postman-000?&logo=postman)
