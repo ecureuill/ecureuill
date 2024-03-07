@@ -69,7 +69,7 @@ I'm Camilla, a full-stack developer and QA from :brazil: São Paulo.
 
 
 ### Back-end Projects resulted from Challanges or Courses
-- ⚔️[RPG Battle API](https://github.com/ecureuill/adopet)
+- ⚔️[RPG Battle API](https://github.com/ecureuill/rpgbattle)
 - 🐶[Adopet API](https://github.com/ecureuill/adopet)
 - ✈️[Milhas API](https://github.com/ecureuill/milhasapi)
 
