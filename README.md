@@ -53,7 +53,7 @@ I'm Camilla, a full-stack developer and QA from :brazil: São Paulo.
 - ⏰ Clock App - 🐳 Dockerized Robot & Appium environment [repo](https://github.com/ecureuill/dockerized-robot-appium-environment)
 - ☕ Starbugs Coffee   - 🥒 Cucumber & Capybara      [repo](https://github.com/ecureuill/starbugs-cucumber-rb) | [report](https://ecureuill.github.io/starbugs-cucumber-rb/report.html)
 - ☕ Starbugs Coffee   - 🟢 Cypress                  [repo](https://github.com/ecureuill/starbugs-cypress) | [report](https://ecureuill.github.io/starbugs-cypress)
-
+- 🛍️ ServeRest API   - 🟢 Cypress                  [repo](https://github.com/ecureuill/serverest-cypress) | [report](https://ecureuill.github.io/serverest-cypress) 
 - 🧟 ZombiePlus        - 🤖 Robot Framework          [repo](https://github.com/ecureuill/zombieplus-robot) | [report](https://ecureuill.github.io/zombieplus-robot/report.html)
 - 🧟 ZombiePlus        - 🎭 Playwright Framework     [repo](https://github.com/ecureuill/zombieplus-playwright) | [report](https://ecureuill.github.io/zombieplus-playwright)
 - 🛍️ SauceDemo         - 🎭 Playwright Framework     [repo](https://github.com/ecureuill/saucedemo-playwright) | [report](https://ecureuill.github.io/saucedemo-playwright)
